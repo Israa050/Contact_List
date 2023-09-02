@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421208869252",
+    "project_id": "contact-list-ddf05",
+    "storage_bucket": "contact-list-ddf05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421208869252:android:cfb509ca0898d9802b35d1",
+        "android_client_info": {
+          "package_name": "com.example.contactlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421208869252-485k6j9jvk4cr61pm65lspnbgfh7sbuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgXDGCFnGflsmts7-sU_62x7J9ki7ofUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421208869252-485k6j9jvk4cr61pm65lspnbgfh7sbuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
